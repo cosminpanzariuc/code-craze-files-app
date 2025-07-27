@@ -175,6 +175,7 @@ watchEffect(() => {
 
 <style scoped lang="scss">
 .table-wrapper {
+  color: black;
   &__upper-section {
     position: relative;
     padding: 10px 0;
